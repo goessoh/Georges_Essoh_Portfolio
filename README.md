@@ -23,6 +23,6 @@ This project demonstrates the use advanced analysis and Machine Learning techniq
 
 
 # [Predicting-medical-costs]()
-This project is a compendium of various Machine learning techniques: Regression and classification.
+This project is a compendium of various Machine learning techniques: Regression and classification to predict medical cost from an Insurance perspective.
 
 
