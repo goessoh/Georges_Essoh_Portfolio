@@ -1,4 +1,4 @@
-# Georges_Essoh_Portfolio
+# Georges Essoh Portfolio
 
 
 # [Hotel-Recommendation-Analysis](https://github.com/goessoh/Hotel-Recommendation-Analysis)
