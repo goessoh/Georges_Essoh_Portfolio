@@ -43,3 +43,7 @@ This repository is an exploratory data analysis project with R to determine the 
 ![](/Images/business-3080799__340%20(1).jpg)
 
 
+# [Productivity-Prediction-of-Garment-Employees](https://github.com/goessoh/Productivity-Prediction-of-Garment-Employees)
+This repository presents two approaches for predicting employees' productivity: time series analysis and regression using python.
+
+![](/Images/woman-5762754_960_720.png)
