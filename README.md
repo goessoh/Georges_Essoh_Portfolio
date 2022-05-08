@@ -40,3 +40,7 @@ This project is a compendium of various Machine learning techniques: Regression 
 ![](/Images/istockphoto-1263521165-612x612.jpg)
 
 
+# [Marketing-promotion-recommendation]()
+This repository is an exploratory data analysis project with R to determine the ideal date for a marketting promotion at a Dodgers' game for maximum impact.
+
+![]()
