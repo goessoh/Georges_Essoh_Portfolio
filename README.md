@@ -1,4 +1,4 @@
-# Georges Essoh Portfolio
+## Georges Essoh Portfolio
 
 
 # [Hotel-Recommendation-Analysis](https://github.com/goessoh/Hotel-Recommendation-Analysis)
@@ -38,3 +38,5 @@ This project demonstrates the use advanced analysis and Machine Learning techniq
 This project is a compendium of various Machine learning techniques: Regression and classification to predict medical cost from an Insurance perspective.
 
 ![](/Images/istockphoto-1263521165-612x612.jpg)
+
+
