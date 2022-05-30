@@ -29,7 +29,7 @@ This project demonstrates the use advanced analysis and Machine Learning techniq
 ![](/Images/istockphoto-897409724-612x612.jpg)
 
 
-# [Predicting-medical-costs]()
+# [Predicting-medical-costs](https://github.com/goessoh/Predicting-medical-costs-)
 This project is a compendium of various Machine learning techniques: Regression and classification to predict medical cost from an Insurance perspective.
 
 ![](/Images/istockphoto-1263521165-612x612.jpg)
